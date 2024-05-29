@@ -57,7 +57,7 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🦹 About', callback_data='about')
         ],[
-            InlineKeyboardButton('💰 Buy Subscription : Remove Ads 💰', callback_data='earn')
+            InlineKeyboardButton('💰 Buy Subscription : Remove Ads 💰', callback_data='plans')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
