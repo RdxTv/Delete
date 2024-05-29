@@ -43,6 +43,13 @@ You Can Use This Feature To Search GitHub Repo.
  🚀 How To Use
  ⚡ Send Me Instagram Post Link.
  </b>"""
+
+    FONT_TXT = """<b>You Can Use This Feature To Change Font Style   
+  
+ ⚡️ /font Your Text
+ Example:- /font TeamYourX 
+  
+ </b>"""
     
     NEW_GROUP_TXT = """#NewGroup
 Title - {}
