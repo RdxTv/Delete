@@ -583,7 +583,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🦹 About', callback_data='about')
         ],[
-            InlineKeyboardButton('💰 Buy Subscription : Remove Ads 💰', callback_data='plans')
+            InlineKeyboardButton('💰 Buy Subscription : Remove Ads 💰", url=f"https://t.me/{temp.U_NAME}?start=plans")]
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
