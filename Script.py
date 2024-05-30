@@ -12,9 +12,9 @@ I Am PowerFul Auto Filter With Link Shortener. Just Add Me To Your Group And Enj
 ★ Country: Hindustan 🚩"""
 
     STATUS_TXT = """🗃️ Total Files: <code>{}</code>
-👪 Total Users: <code>{}</code>
+🦹‍♂ Total Users: <code>{}</code>
 💬 Total Chats: <code>{}</code>
-🤑 Premium Users: <code>{}</code>
+🚀 Premium Users: <code>{}</code>
 📂 Used Storage: <code>{}</code>
 🗂 Free Storage: <code>{}</code>
 ⏰ Uptime: <code>{}</code>"""
